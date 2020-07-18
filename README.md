@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://cloud.ibm.com">
-        <img src="https://www.google.com/search?q=png+picture+of+butterfly&rlz=1C1GCEA_enIN891IN891&sxsrf=ALeKk00rrZ4_w714IPNFBjR6J0Mk3U_gcQ:1595058461583&tbm=isch&source=iu&ictx=1&fir=QnmRvHDLsr0QsM%252CFCIoa_dN8cM7xM%252C_&vet=1&usg=AI4_-kR2erRJdx5yhqFZzQbpmZhe3YFZBg&sa=X&ved=2ahUKEwjsmv7np9bqAhUUXisKHZ6YClIQ9QEwAHoECAoQHA&biw=1366&bih=625#imgrc=QnmRvHDLsr0QsM" height="100" alt="IBM Cloud">
+        <img src="C:\Users\akash.polekar\Desktop\certificates\145672_akash.polekar@infosys.com.PNG" height="100" alt="IBM Cloud">
     </a>
 </p>
 
