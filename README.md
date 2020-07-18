@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://cloud.ibm.com">
-        <img src="C:\Users\akash.polekar\Desktop\certificates\145672_akash.polekar@infosys.com.PNG" height="100" alt="IBM Cloud">
+        <img src="https://www.instagram.com/p/B9oFJrDnm4V/?utm_source=ig_web_copy_link" height="100" alt="IBM Cloud">
     </a>
 </p>
 
