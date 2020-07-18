@@ -35,7 +35,10 @@ You can manage CI/CD [for this application in IBM Cloud](https://cloud.ibm.com/d
 Use the button above to develop this same application on IBM Cloud. This option will create a CI/CD pipeline, complete with a hosted GitLab project and DevOps toolchain. [IBM Cloud DevOps](https://www.ibm.com/cloud/devops) services provides toolchains as a set of tool integrations that support development, deployment, and operations tasks inside IBM Cloud. 
 
 ### Building Locally
-
+<p align="center">
+  <img src="C:\Users\akash.polekar\Desktop\certificates\145672_akash.polekar@infosys.com" width="350" title="hover text">
+  <img src="C:\Users\akash.polekar\Desktop\certificates\Essentials of Cloud Computing" width="350" alt="accessibility text">
+</p>
 To get started building this application locally, you can run the application natively.
 
 #### Native Application Development
