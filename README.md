@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://cloud.ibm.com">
-        <img src="https://www.instagram.com/p/B9oFJrDnm4V/?utm_source=ig_web_copy_link" height="100" alt="IBM Cloud">
+        <img src="https://landscape.cncf.io/logos/ibm-cloud-kcsp.svg" height="100" alt="IBM Cloud">
     </a>
 </p>
 
