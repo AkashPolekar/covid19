@@ -36,8 +36,8 @@ Use the button above to develop this same application on IBM Cloud. This option 
 
 ### Building Locally
 <p align="center">
-  <img src="C:\Users\akash.polekar\Desktop\certificates\145672_akash.polekar@infosys.com" width="350" title="hover text">
-  <img src="C:\Users\akash.polekar\Desktop\certificates\Essentials of Cloud Computing" width="350" alt="accessibility text">
+  <img src="C:\Users\akash.polekar\Desktop\certificates\145672_akash.polekar@infosys.com.PNG" width="350" title="hover text">
+  <img src="C:\Users\akash.polekar\Desktop\certificates\Essentials of Cloud Computing.PNG" width="350" alt="accessibility text">
 </p>
 To get started building this application locally, you can run the application natively.
 
